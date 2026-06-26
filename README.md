@@ -6,6 +6,18 @@ The application employs a **hybrid Artificial Intelligence framework** that inte
 
 ---
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bloomsanalyzerfinalhackathoncode-kpskpcgdrrzswupec9jpw8.streamlit.app/)
+
+### 🚀 Live Demo
+
+👉 **Try the application online:**
+
+https://bloomsanalyzerfinalhackathoncode-kpskpcgdrrzswupec9jpw8.streamlit.app/
+
+---
+
+An **AI-powered Outcome-Based Education (OBE) Assessment Analyzer** designed to automate the evaluation of examination question papers using **Bloom's Taxonomy**, **Course Outcome (CO) mapping**, and **OBE assessment blueprint validation**.
+
 # Key Features
 
 ## Intelligent Question Paper Analysis
