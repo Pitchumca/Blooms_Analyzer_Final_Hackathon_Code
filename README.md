@@ -422,19 +422,34 @@ Suitable for:
 
 ---
 
-# Author
+# 👥 Team
 
-## Team Members
-
+## 🧑‍💼 Project Lead
 **Dr. S. Pitchumani Angayarkanni**
+- Team Leader
+- AI System Architect
+- Hybrid Bloom Classification
+- OBE Framework Design
 
-Professor
+## 💻 Software Development
+**Mr. R. Udaya**
+- Streamlit Development
+- File Processing
+- Visualization Dashboard
+- Deployment
 
-Department of Computer Science and Engineering
+## 📊 Assessment Analytics
+**Dr. Baskar**
+- Statistical Validation
+- Performance Metrics
+- Assessment Quality Analysis
 
-Aarupadai Veedu Institute of Technology (AVIT)
-
-Vinayaka Mission's Research Foundation (Deemed to be University)
+## ✅ Quality Assurance
+**Dr. A. Keerthi**
+- Experimental Validation
+- Expert Evaluation
+- Robustness Testing
+- Documentation
 
 ---
 
