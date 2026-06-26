@@ -422,34 +422,28 @@ Suitable for:
 
 ---
 
-# 👥 Team
+# 👥 Team Roles & Responsibilities
 
-## 🧑‍💼 Project Lead
-**Dr. S. Pitchumani Angayarkanni**
-- Team Leader
-- AI System Architect
-- Hybrid Bloom Classification
-- OBE Framework Design
+| Team Member | Designation | Department | Role | Responsibilities |
+|-------------|-------------|------------|------|------------------|
+| **Dr. S. Pitchumani Angayarkanni** | Professor | Department of Computer Science and Engineering (CSE) | **Team Leader & AI System Architect** | Conceived the project, designed the hybrid AI framework, developed the Bloom's Taxonomy classification engine, OBE blueprint validation, assessment analytics, coordinated the project, and prepared the technical documentation. |
+| **Mr. R. Udaya** | Assistant Professor | Department of Computer Science and Engineering (CSE) | **Software Development & Visualization Lead** | Developed the Streamlit application, implemented file parsing modules, integrated machine learning models, designed interactive dashboards and visualizations, and assisted in deployment and testing. |
+| **Dr. Baskar** | Assistant Professor | Department of Humanities & Sciences (Mathematics) | **Assessment Analytics & Statistical Validation Lead** | Designed and validated statistical evaluation metrics, verified cognitive balance analysis, computed performance measures (Accuracy, Precision, Recall, F1-score, Cohen's Kappa), and contributed to robustness evaluation. |
+| **Dr. A. Keerthi** | Assistant Professor | Department of Electronics and Communication Engineering (ECE) | **Quality Assurance & Experimental Validation Lead** | Conducted experimental validation using real examination question papers, performed expert Bloom-level verification, evaluated robustness, carried out system testing, and supported documentation and project demonstration. |
 
-## 💻 Software Development
-**Mr. R. Udaya**
-- Streamlit Development
-- File Processing
-- Visualization Dashboard
-- Deployment
+---
 
-## 📊 Assessment Analytics
-**Dr. Baskar**
-- Statistical Validation
-- Performance Metrics
-- Assessment Quality Analysis
+## 🤝 Shared Responsibilities
 
-## ✅ Quality Assurance
-**Dr. A. Keerthi**
-- Experimental Validation
-- Expert Evaluation
-- Robustness Testing
-- Documentation
+All team members jointly contributed to:
+
+- Requirement analysis based on the AVIT Faculty Hackathon problem statement.
+- Literature review on Bloom's Taxonomy and Outcome-Based Education (OBE).
+- Collection and preprocessing of examination question papers.
+- System design discussions and feature validation.
+- Testing, debugging, and performance evaluation.
+- Preparation of the technical report, README documentation, and presentation.
+- Final project demonstration and repository maintenance.
 
 ---
 
