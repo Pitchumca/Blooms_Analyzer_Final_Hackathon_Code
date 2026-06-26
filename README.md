@@ -18,7 +18,7 @@ https://bloomsanalyzerfinalhackathoncode-kpskpcgdrrzswupec9jpw8.streamlit.app/
 ## 🏗️ System Architecture
 
 <p align="center">
-  <img src="obe_analyzer_architecture.png" alt="Bloom OBE Analyzer Architecture" width="1000"/>
+  <img src="blooms_level_analyzer_architecture_final.png" alt="Bloom Analyzer Architecture" width="1000"/>
 </p>
 
 # Key Features
