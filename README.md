@@ -65,6 +65,117 @@ Supported question categories include:
 * Design-Oriented Questions
 * Analytical Questions
 
+Sample Question Paper
+<a href="IAT-TESTII QP_Set2_NLP.docx"> Sample Question Paper to upload</a>
+  
+# 📝 Question Paper Format
+
+The Bloom's Taxonomy & Course Outcome (OBE) Analyzer accepts examination question papers in **DOC, DOCX, PDF, CSV, XLSX, and TXT** formats. For the best results, the question paper should follow one of the supported formats described below.
+
+## Option 1: Recommended (DOC/DOCX Table Format)
+
+Use a table with the following columns:
+
+| S.No. | Question                                                                  | Course Outcome | Bloom's Taxonomy Level | Marks |
+| :---: | ------------------------------------------------------------------------- | :------------: | :--------------------: | :---: |
+|   1   | Define Natural Language Processing.                                       |       CO1      |  Remember & Understand |   2   |
+|   2   | Explain the working of stemming algorithms.                               |       CO1      |  Remember & Understand |   5   |
+|   3   | Apply the Naïve Bayes algorithm to classify the given dataset.            |       CO2      |          Apply         |   10  |
+|   4   | Analyze the performance of CNN and RNN models for sentiment analysis.     |       CO3      |         Analyze        |   10  |
+|   5   | Evaluate the effectiveness of Transformer models for machine translation. |       CO4      |        Evaluate        |   13  |
+|   6   | Design an AI-based chatbot for healthcare applications.                   |       CO5      |         Create         |   15  |
+
+> **Note:** If the **Bloom's Taxonomy Level** column is omitted, the application automatically predicts the Bloom level using the hybrid AI classifier.
+
+---
+
+## Option 2: CSV / XLSX Format
+
+Required columns:
+
+| Column Name            | Required |
+| ---------------------- | :------: |
+| S.No.                  |     ✓    |
+| Question               |     ✓    |
+| Course Outcome         | Optional |
+| Bloom's Taxonomy Level | Optional |
+| Marks                  | Optional |
+
+Example:
+
+| S.No. | Question                                   | Course Outcome | Marks |
+| :---: | ------------------------------------------ | :------------: | :---: |
+|   1   | What is Data Mining?                       |       CO1      |   2   |
+|   2   | Explain the Apriori algorithm.             |       CO2      |   5   |
+|   3   | Compare Decision Trees and Random Forests. |       CO3      |   10  |
+
+---
+
+## Option 3: PDF / TXT Format
+
+The application automatically extracts numbered questions from PDF and TXT documents.
+
+Example:
+
+```text
+1. What is Artificial Intelligence? (2 Marks)
+
+2. Explain supervised learning with examples. (5 Marks)
+
+3. Apply the K-Means algorithm to cluster the given dataset. (10 Marks)
+
+4. Analyze the advantages and limitations of Support Vector Machines. (10 Marks)
+
+5. Evaluate different deep learning architectures for image classification. (13 Marks)
+
+6. Design an intelligent recommendation system for e-commerce applications. (15 Marks)
+```
+
+---
+
+## Supported Bloom's Taxonomy Levels
+
+The application supports the **Revised Bloom's Taxonomy**:
+
+| Level | Cognitive Category    |
+| ----: | --------------------- |
+|     1 | Remember & Understand |
+|     2 | Apply                 |
+|     3 | Analyze               |
+|     4 | Evaluate              |
+|     5 | Create                |
+
+---
+
+## Supported Course Outcome Format
+
+Course Outcomes should be specified using one of the following formats:
+
+* CO1
+* CO2
+* CO3
+* CO4
+* CO5
+* CO6
+
+If Course Outcomes are not provided, the application can still perform Bloom-level analysis but CO-based analytics and OBE blueprint validation will be unavailable.
+
+---
+
+## Expert Validation Format
+
+To evaluate model performance against expert annotations, upload a CSV file with the following columns:
+
+| Question                          | Expert_Level          |
+| --------------------------------- | --------------------- |
+| Define Artificial Intelligence.   | Remember & Understand |
+| Apply Dijkstra's Algorithm.       | Apply                 |
+| Analyze the architecture of CNN.  | Analyze               |
+| Evaluate cloud deployment models. | Evaluate              |
+| Design a secure IoT system.       | Create                |
+
+The application automatically computes Accuracy, Precision, Recall, F1-Score, Cohen's Kappa, and the Confusion Matrix by comparing expert annotations with the predicted Bloom levels.
+
 ---
 
 # Hybrid Bloom's Taxonomy Classification
