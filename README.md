@@ -1,22 +1,25 @@
-# Bloom's Taxonomy & Course Outcome Analyzer
+# 🌸 Bloom's Taxonomy & Course Outcome Analyzer
 
-An **AI-powered Outcome-Based Education (OBE) Assessment Analyzer** designed to automate the evaluation of examination question papers using **Bloom's Taxonomy**, **Course Outcome (CO) mapping**, and **OBE assessment blueprint validation**.
+<p align="center">
 
-The application employs a **hybrid Artificial Intelligence framework** that integrates **rule-based NLP**, **machine learning**, **action-verb analysis**, and **assessment analytics** to assist faculty in designing high-quality examinations aligned with NBA, NAAC, and OBE standards.
+<a href="https://bloomsanalyzerfinalhackathoncode-kpskpcgdrrzswupec9jpw8.streamlit.app/">
+<img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit">
+</a>
 
----
+</p>
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bloomsanalyzerfinalhackathoncode-kpskpcgdrrzswupec9jpw8.streamlit.app/)
-
-### 🚀 Live Demo
-
-👉 **Try the application online:**
-
+<p align="center">
+<b>🚀 Live Demo</b><br>
 https://bloomsanalyzerfinalhackathoncode-kpskpcgdrrzswupec9jpw8.streamlit.app/
+</p>
 
 ---
 
-An **AI-powered Outcome-Based Education (OBE) Assessment Analyzer** designed to automate the evaluation of examination question papers using **Bloom's Taxonomy**, **Course Outcome (CO) mapping**, and **OBE assessment blueprint validation**.
+## 🏗️ System Architecture
+
+<p align="center">
+  <img src="obe_analyzer_architecture.png" alt="Bloom OBE Analyzer Architecture" width="1000"/>
+</p>
 
 # Key Features
 
