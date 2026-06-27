@@ -1,4 +1,4 @@
-# 🌸 Bloom's Taxonomy & Course Outcome Analyzer
+# Team: IntelliSphere 🌸 Bloom's Taxonomy & Course Outcome Analyzer
 
 <p align="center">
 
