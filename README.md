@@ -32,6 +32,20 @@ https://bloomsanalyzerfinalhackathoncode-kpskpcgdrrzswupec9jpw8.streamlit.app/
   <img src="blooms_level_analyzer_architecture_final.png" alt="Bloom Analyzer Architecture" width="1000"/>
 </p>
 
+# 💻 Technology Stack
+
+<p align="center">
+  <img src="./blooms_taxonomy_obe_analyzer_tech_stack.png"
+       alt="Bloom's Taxonomy & OBE Analyzer Technology Stack"
+       width="1000">
+</p>
+
+<p align="center">
+<b>Figure.</b> Technology stack of the Bloom's Taxonomy & Outcome-Based Education (OBE) Analyzer.
+</p>
+
+The proposed system integrates modern AI, Natural Language Processing, Machine Learning, and data visualization technologies to automate Bloom's Taxonomy classification and Outcome-Based Education (OBE) assessment analysis. The technology stack combines rule-based NLP, TF-IDF with Logistic Regression, interactive Streamlit dashboards, and comprehensive analytics to support intelligent examination quality assessment.
+
 # Key Features
 
 ## Intelligent Question Paper Analysis
