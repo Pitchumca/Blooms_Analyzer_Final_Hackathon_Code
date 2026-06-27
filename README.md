@@ -178,6 +178,7 @@ If Course Outcomes are not provided, the application can still perform Bloom-lev
 
 ## Expert Validation Format
 
+
 To evaluate model performance against expert annotations, upload a CSV file with the following columns:
 
 | Question                          | Expert_Level          |
@@ -189,6 +190,18 @@ To evaluate model performance against expert annotations, upload a CSV file with
 | Design a secure IoT system.       | Create                |
 
 The application automatically computes Accuracy, Precision, Recall, F1-Score, Cohen's Kappa, and the Confusion Matrix by comparing expert annotations with the predicted Bloom levels.
+**Repository File**
+
+```text
+NLP_Expert_Validation.csv
+```
+
+or
+
+```markdown
+📥 [Download Sample Expert Validation CSV](NLP_Expert_Validation.csv)
+```
+
 
 ---
 
