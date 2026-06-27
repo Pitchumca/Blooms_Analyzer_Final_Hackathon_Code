@@ -8,7 +8,7 @@
 
 </p>
 <p>
- <b> 📖 Overview</b>b>
+ <b> 📖 Overview</b>
 
 The **Bloom's Taxonomy & Course Outcome (OBE) Analyzer** is an AI-powered assessment quality evaluation platform developed to support **Outcome-Based Education (OBE)** in higher education institutions. The application automatically analyzes examination question papers by classifying questions according to the **Revised Bloom's Taxonomy**, evaluating **Course Outcome (CO) coverage**, validating **OBE assessment blueprints**, and generating comprehensive analytics to improve assessment quality.
 
