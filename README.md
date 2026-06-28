@@ -562,7 +562,6 @@ Suitable for:
 * OpenPyXL
 * python-docx
 * PyPDF
-
 ---
 ## 📂 Project Resources
 
