@@ -564,6 +564,19 @@ Suitable for:
 * PyPDF
 
 ---
+## 📂 Project Resources
+
+### 🚀 Live Application
+https://bloomsanalyzerfinalhackathoncode-kpskpcgdrrzswupec9jpw8.streamlit.app/
+
+### 📹 Demo Video
+https://drive.google.com/file/d/1N7SxoOliVJw3zevd7CNj1cC7E31mr7Th/view?usp=sharing
+
+### 📄 Technical Report
+https://drive.google.com/file/d/1ZMy1KeIuJhlK63aEA7u_CC4zts2Vjjf9/view?usp=sharing
+
+### 📊 Presentation
+https://docs.google.com/presentation/d/1OPxZ3CCL-Ygakfuar3B7N9xiRLd5Ko2w/edit?usp=sharing&ouid=106817736780012115323&rtpof=true&sd=true
 
 # 👥 Team Roles & Responsibilities
 
