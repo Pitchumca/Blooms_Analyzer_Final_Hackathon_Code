@@ -17,11 +17,22 @@ Designed for faculty members, accreditation teams, and academic quality assuranc
 The application also includes expert validation, assessment quality metrics, cognitive balance analysis, interactive dashboards, and downloadable reports, enabling educators to make evidence-based decisions during examination design and curriculum review.
 </p>
 
-<p align="center">
-<b>🚀 Live Demo</b><br>
-https://bloomsanalyzerfinalhackathoncode-kpskpcgdrrzswupec9jpw8.streamlit.app/
-</p>
 
+<h2 align="center">🚀 Run the Project</h2>
+
+<p align="center">
+
+<a href="https://bloomsanalyzerfinalhackathoncode-kpskpcgdrrzswupec9jpw8.streamlit.app/" target="_blank">
+<img src="https://img.shields.io/badge/🚀%20Run%20Prototype-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/Question_PAper_Blooms_Analyzer_IntelliSphere.ipynb" target="_blank">
+<img src="https://img.shields.io/badge/📓%20Run%20Notebook-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
+</a>
+
+</p>
 ---
 
 ## 🏗️ System Architecture
