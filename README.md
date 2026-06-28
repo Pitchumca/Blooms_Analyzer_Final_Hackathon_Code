@@ -1,11 +1,9 @@
 # Team: IntelliSphere 🌸 Bloom's Taxonomy & Course Outcome Analyzer
 
 <p align="center">
-
-<a href="https://bloomsanalyzerfinalhackathoncode-kpskpcgdrrzswupec9jpw8.streamlit.app/">
-<img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit">
+<a href="https://bloomsanalyzerfinalhackathoncode-kpskpcgdrrzswupec9jpw8.streamlit.app/" target="_blank">
+<img src="https://img.shields.io/badge/🚀%20Launch-Bloom%20Analyzer-red?style=for-the-badge&logo=streamlit&logoColor=white">
 </a>
-
 </p>
 <p>
  <b> 📖 Overview</b>
