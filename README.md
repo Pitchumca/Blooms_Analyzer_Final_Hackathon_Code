@@ -29,7 +29,7 @@ The application also includes expert validation, assessment quality metrics, cog
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://colab.research.google.com/drive/1w_2yTBT-ApVlcWoJrAEv9bUc-L1KW2bI?usp=sharing" target="_blank">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
+<img src="https://img.shields.io/badge/📓%20Run%20Notebook-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
 </a>
 
 </p>
